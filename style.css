@@ -4,6 +4,6 @@
 --cor-cabecalho: #FFFFFF;
 }
 body{
-background-color: var(--cor-de-fundo);
+background-color: var(--cor-cabecalho);
 margin: 0;
 }
