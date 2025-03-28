@@ -1,13 +1,13 @@
 .cabecalho{
     background-color: var(--cor-do-cabecalho);
-    padding: 3em;
+    padding: 1em;
     }
     .container{
     display: flex;
     align-items: center;
     }
     .container imagem, .container frase{
-    padding: 50em;
+    padding: 3em;
     }
     .container titulo, .container frase{
     display:none;
@@ -16,19 +16,19 @@
 
 @media screen and (min-width: 820px) {
     .container_titulo, .container_titulo--negrito {
-        font-size: 100px;
+        font-size: 30px;
     }
 
     .container_titulo {
-        font-weight: 400;
+        font-weight: 50;
         display: block;
     }
 }
 
 @media screen and (min-width: 1024px) {
     .container_frase {
-        padding-left: 10em;
-        font-size: 300px;
+        padding-left: 1em;
+        font-size: 50px;
         display: block;
     }
 }
