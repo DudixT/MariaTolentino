@@ -7,7 +7,7 @@
     align-items: center;
     }
     .container imagem, .container frase{
-    padding: 7em;
+    padding: 7px, 10px;
     }
     .container titulo, .container frase{
     display:none;
