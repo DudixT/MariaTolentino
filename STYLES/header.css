@@ -7,7 +7,7 @@
     align-items: center;
     }
     .container imagem, .container frase{
-    padding: 3em;
+    padding: 7em;
     }
     .container titulo, .container frase{
     display:none;
@@ -16,7 +16,7 @@
 
 @media screen and (min-width: 820px) {
     .container_titulo, .container_titulo--negrito {
-        font-size: 30px;
+        font-size: 30px
     }
 
     .container_titulo {
