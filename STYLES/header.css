@@ -31,7 +31,7 @@
 
 @media screen and (min-width: 1024px) {
     .container_frase {
-        padding-left: 20px;
+        padding: 20px;
         font-size:100;
         display: block;
     }
