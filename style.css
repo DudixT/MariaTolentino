@@ -7,3 +7,14 @@ body{
 background-color: var(--cor-de-fundo);
 margin: 0;
 }
+
+.footer {
+    background-color: #e0f190;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-image {
+    width: 100px;
+    height: auto;
+}
