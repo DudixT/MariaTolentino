@@ -8,11 +8,8 @@
     }
     .container frase{
     padding: 50px;
-    }
-    .container titulo, .container frase{
     display:none;
     }
-    
 
 @media screen and (max-width: 820px) {
     .container_titulo, .container_titulo--negrito {
