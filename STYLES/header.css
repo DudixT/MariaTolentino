@@ -12,6 +12,10 @@
     .container titulo, .container frase{
     display:none;
     }
+    .imagem-cabecalho {
+        width: 1348px;
+        height: auto;
+    }
 
 
 @media screen and (max-width: 820px) {
