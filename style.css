@@ -15,7 +15,7 @@ margin: 0;
 }
 
 .footer-image {
-    width: 1348px;
+    width: 100;
     height: auto;
 }
 @media screen and (max-width: 800px) {
