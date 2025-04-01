@@ -8,6 +8,11 @@ background-color: var(--cor-de-fundo);
 margin: 0;
 } 
 
+.imagem-cabecalho {
+    width: 10px;
+    height: 5px;
+}
+
 .footer {
     background-color: #e0f190;
     padding: 20px;
