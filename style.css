@@ -13,7 +13,12 @@ margin: 0;
     height: 250px;
 }
 
-.sit
+.titulo-site {
+    font-size: 50px;
+    font-weight: bold;
+    margin-left: 200 px;
+    font-family: 'BlowBrush', cursive;
+}
 
 .footer {
     background-color: #e0f190;
