@@ -18,3 +18,8 @@ margin: 0;
     width: 1348px;
     height: auto;
 }
+@media screen (max-width: 600px) {
+    .footer-image {
+        width: 70px;
+    }
+}
