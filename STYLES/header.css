@@ -6,8 +6,8 @@
     display: flex;
     align-items: center;
     }
-    .container imagem, .container frase{
-    padding: 1em;
+    .container frase{
+    padding: 5px;
     }
     .container titulo, .container frase{
     display:none;
