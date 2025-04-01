@@ -1,4 +1,4 @@
-@import url(style/header/footer.css);
+@import url(style/header/.css);
 :root{
 --cor-de-fundo: #e5ecbb;
 --cor-cabecalho: #f3c887;
@@ -7,3 +7,14 @@ body{
 background-color: var(--cor-de-fundo);
 margin: 0;
 } 
+
+.footer {
+    background-color: #e0f190;
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-image {
+    width: 1080px;
+    height: auto;
+}
