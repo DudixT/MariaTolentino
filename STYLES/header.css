@@ -16,11 +16,6 @@
     .titulo-site, .titulo-site--negrito {
      font-size: 30px;
     }
-
-    .titulo-site {
-        font-weight: 50px;
-        display: block;
-    }
 }
 
 @media screen and (min-width: 1024px) {
