@@ -26,7 +26,7 @@
 @media screen and (min-width: 1024px) {
     .container_frase {
         padding: 20px;
-        font-size:100;
+        font-size:100px;
         display: block;
     }
 }
