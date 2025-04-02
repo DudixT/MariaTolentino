@@ -33,7 +33,7 @@ margin: 50px;
 }
 @media screen and (max-width: 800px) {
     .footer-image {
-        width: 50px;
+        width: 200px;
         height: 150px;
     }
 }
