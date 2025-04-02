@@ -13,11 +13,11 @@
     }
 
 @media screen and (min-width: 820px) {
-    .container_titulo, .container_titulo--negrito {
+    .titulo-site, .titulo-site--negrito {
      font-size: 30px;
     }
 
-    .container_titulo {
+    .titulo-site {
         font-weight: 50px;
         display: block;
     }
