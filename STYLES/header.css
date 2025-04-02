@@ -20,6 +20,11 @@
         font-weight: 50px;
         display: block;
     }
+
+    .footer-image {
+        width: 500px;
+        height: 400px;
+    }
 }
 
 @media screen and (min-width: 1024px) {
